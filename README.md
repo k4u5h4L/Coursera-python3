@@ -8,7 +8,7 @@ This is a collection of weekly assignments given in the course [Data Collection 
 
 ## Note:
 
-- This are the assignhments I've done myself. So please do not plagiarise it and
+- This are the assignments I've done myself. So please do not plagiarise it and
   copy paste the exact same code without thinking.
 
 - I have uploaded these questions for my own reference, and you can use it the same
