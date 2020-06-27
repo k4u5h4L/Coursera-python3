@@ -8,8 +8,7 @@ This is a collection of weekly assignments given in the course [Data Collection 
 
 ## Note:
 
-- This are the assignments I've done myself. So please do not plagiarise it and
-  copy paste the exact same code without thinking.
+- This are the assignments I've done. The programs may have mistakes or errors. If you find any such error, feel free to issue a PR to this repo.
 
 - I have uploaded these questions for my own reference, and you can use it the same
   way too.
